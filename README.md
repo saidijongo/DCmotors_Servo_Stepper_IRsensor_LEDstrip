@@ -1,2 +1,1 @@
-# DCmotors_Servo_Stepper_IRsensor_LEDstrip
-Misc project
+Controlling DC motors, 2 phases stepper motor and Servo
